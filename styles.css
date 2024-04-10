@@ -10,8 +10,8 @@
 }
 
 .image-container img {
-  width: 20%;
-  height: 40%;
+  width: 100%;
+  height: 50%;
   object-fit: Cover;
 }
 
